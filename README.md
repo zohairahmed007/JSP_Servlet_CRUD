@@ -7,12 +7,12 @@ Using Eclipse and Tomcat 10.1 with My SQL
 
 Import Project in Eclipse 
 ```bash
-  Import mysql script in your database.
+  Import MySQL script in your database.
   SQL Connecter in (webapp\src\main\webapp\WEB-INF\lib)
 ```
     
 ## Demo
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/zohairahmed007/jsp_servlet_crud/blob/main/demo_jsp.gif)
 
 
 ## Author
